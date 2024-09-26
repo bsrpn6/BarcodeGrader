@@ -1,33 +1,86 @@
-# Android/Gradle specific
-**/build/
-**/bin/
-**/.gradle/
-
-# IntelliJ IDEA specific
+# Android/IntelliJ specific
 .idea/
 *.iml
+.gradle/
+local.properties
+/.gradle
+/build/
+/captures
+.externalNativeBuild
+.cxx/
+ndk/
+**/build/
+**/intermediates/
+**/generated/
 
-# macOS specific
+# Gradle
+.gradle/
+/build/
+/local.properties
+/.gradle/
+/build/
+
+# Android Studio/IntelliJ
+.idea/
+*.iml
+*.hprof
+
+# External native builds
+**/cxx/
+**/ndk/
+
+# Google Services (you might want to keep your google-services.json if it is project specific)
+google-services.json
+
+# MacOS
 .DS_Store
 
-# OpenCV binaries and libraries
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python specific (if you're using Python scripts)
+*.pyc
+__pycache__/
+
+# OpenCV specific
 opencv/native/libs/
 opencv/native/staticlibs/
 opencv/native/bin/
-opencv/native/3rdparty/libs/
 opencv/.cxx/
+opencv/.gradle/
+opencv/build/
+opencv/native/jni/OpenCV.mk
+opencv/native/jni/OpenCVConfig-version.cmake
+opencv/native/jni/OpenCVConfig.cmake
+opencv/native/jni/abi-*/
 
-# Javadoc
-opencv/java/javadoc/
+# Ignore OpenCV build-related files
+opencv/.idea/
+opencv/bin/
+opencv/obj/
+opencv/tmp/
 
-# Generated files
-*.o
-*.so
-*.a
-*.dll
-*.exe
+# Build related
+build/
+tmp/
+
+# Others
 *.log
-*.lock
+*.apk
+*.ap_
+*.orig
+*.class
+*.swp
+*.swo
+*.DS_Store
 
-# Ignore Gradle wrapper files if they are large (optional)
-.gradle/
+# Git
+*.rej
+*.bak
+*.swp
+*~
+*.orig
+*#*#
+*.old
