@@ -1,0 +1,3 @@
+/Users/braype/AndroidStudioProjects/BarcodeGrader/opencv/.cxx/Debug/6s4ur3f5/armeabi-v7a/CMakeFiles/opencv_jni_shared.dir
+/Users/braype/AndroidStudioProjects/BarcodeGrader/opencv/.cxx/Debug/6s4ur3f5/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/braype/AndroidStudioProjects/BarcodeGrader/opencv/.cxx/Debug/6s4ur3f5/armeabi-v7a/CMakeFiles/rebuild_cache.dir

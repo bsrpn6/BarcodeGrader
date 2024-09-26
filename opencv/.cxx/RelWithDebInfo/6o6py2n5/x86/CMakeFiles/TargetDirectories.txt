@@ -1,0 +1,3 @@
+/Users/braype/AndroidStudioProjects/BarcodeGrader/opencv/.cxx/RelWithDebInfo/6o6py2n5/x86/CMakeFiles/opencv_jni_shared.dir
+/Users/braype/AndroidStudioProjects/BarcodeGrader/opencv/.cxx/RelWithDebInfo/6o6py2n5/x86/CMakeFiles/edit_cache.dir
+/Users/braype/AndroidStudioProjects/BarcodeGrader/opencv/.cxx/RelWithDebInfo/6o6py2n5/x86/CMakeFiles/rebuild_cache.dir

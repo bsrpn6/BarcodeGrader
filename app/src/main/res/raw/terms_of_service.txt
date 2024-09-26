@@ -1,0 +1,9 @@
+Welcome to Barcode Grader. By using this app, you agree to the following terms:
+
+1. Usage: You agree to use the app for its intended purposes only.
+2. Data Privacy: Your data is your responsibility, and while we strive to protect it, we cannot guarantee complete security.
+3. Modifications: We reserve the right to modify these terms at any time.
+
+...
+
+(Include the full text of your Terms of Service here)

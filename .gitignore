@@ -1,0 +1,33 @@
+# Android/Gradle specific
+**/build/
+**/bin/
+**/.gradle/
+
+# IntelliJ IDEA specific
+.idea/
+*.iml
+
+# macOS specific
+.DS_Store
+
+# OpenCV binaries and libraries
+opencv/native/libs/
+opencv/native/staticlibs/
+opencv/native/bin/
+opencv/native/3rdparty/libs/
+opencv/.cxx/
+
+# Javadoc
+opencv/java/javadoc/
+
+# Generated files
+*.o
+*.so
+*.a
+*.dll
+*.exe
+*.log
+*.lock
+
+# Ignore Gradle wrapper files if they are large (optional)
+.gradle/

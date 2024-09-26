@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770907169727",
+    "project_id": "barcodegrader",
+    "storage_bucket": "barcodegrader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770907169727:android:3db7d7a01c45c8d9d7f70a",
+        "android_client_info": {
+          "package_name": "me.brandonray.barcodegrader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770907169727-ap4n2rb4vurbah0prussca9j5r0ik4r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG1jdT8tuI2epHWs2-v1pPafezBvLSl2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770907169727-ap4n2rb4vurbah0prussca9j5r0ik4r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
